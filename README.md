@@ -40,7 +40,7 @@ XML Sitemap for the spider when entering the index website.Bot highly appreciate
 
 In your website, you certainly don’t want some pages, directories, files seen by others. When a robot visits a website, before reading the content of the site, it will find a robots.txt file. This is a text file, located in the root directory, containing the command line to not allow the robot has access to some resources on the website.
 
-Learn more at: [Cách tạo robots.txt](https://www.google.com.vn/search?q=robots.txt+generator&oq=robots.txt+gen&aqs=chrome.1.69i57j0l5.3125j0j7&sourceid=chrome&ie=UTF-8)
+Learn more at: [Generate robots.txt](https://www.google.com.vn/search?q=robots.txt+generator&oq=robots.txt+gen&aqs=chrome.1.69i57j0l5.3125j0j7&sourceid=chrome&ie=UTF-8)
 
 **Canonical URL**
 
