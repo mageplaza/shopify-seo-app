@@ -1,0 +1,27 @@
+{
+  "name": "mageplaza/shopify-seo",
+  "description": "",
+  "type": "shopify-app",
+  "version": "1.0.0",
+  "license": "Mageplaza License",
+  "keywords": [
+      "mageplaza",
+      "seo",
+  ],
+  "authors": [
+    {
+      "name": "Mageplaza",
+      "email": "hi@mageplaza.com",
+      "homepage": "https://www.mageplaza.com",
+      "role": "Leader"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Mageplaza\\Seo\\": ""
+    }
+  }
+}
